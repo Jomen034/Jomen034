@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Jomen034 a.k.a Jomen Pardede
-- 👀 I’m interested in Data, Machine Learning, Artificial Intelligence, Automation System
-- 🌱 I’m currently learning Data and Machine Learning
-- :gear: I’m looking to collaborate on Data Team, no matter it is an internship, part-time, contract, or full-time
+# Horas for you everyone! Welcome to my GitHub Profile 
+## I'm Jomen Pardede, just started my journey in data
+
+- 👀 Have interested in Data, Machine Learning, Artificial Intelligence, Automation System
+- 🌱 Currently learning Data and Machine Learning
+- :gear: Looking to collaborate on Data Team, no matter it is an internship, part-time, contract, or full-time
 - 📫 How to reach me
   - :iphone: +6282272055285
   - :email: jomenpardede@gmail.com
