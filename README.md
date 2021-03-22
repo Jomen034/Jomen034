@@ -1,5 +1,5 @@
-# Horas for you everyone! Welcome to my GitHub Profile 
-## I'm Jomen Pardede, just started my journey in data
+# Horas everyone! Welcome to my GitHub Profile 
+## I'm Jomen Pardede, just started my journey in data :smiley:
 
 - 👀 Have interested in Data, Machine Learning, Artificial Intelligence, Automation System
 - 🌱 Currently learning Data and Machine Learning
