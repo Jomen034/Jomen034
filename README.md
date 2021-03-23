@@ -7,6 +7,7 @@
 - 📫 How to reach me
   - :iphone: +6282272055285
   - :email: jomenpardede@gmail.com
+  - LinkedIn: www.linkedin.com/in/jomen-pardede
 
 <!---
 Jomen034/Jomen034 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
