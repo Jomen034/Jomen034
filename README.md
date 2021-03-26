@@ -1,5 +1,6 @@
 # Horas everyone! Welcome to my GitHub Profile 
-## I'm Jomen Pardede, just started my journey in data :smiley:
+## I'm Jomen Pardede, just started my journey in data
+## Just finished my learning path of [Data Science Bootcamp in Rakamin Academy](https://rakamin.com/):smiley:
 
 - 👀 Have interested in Data, Machine Learning, Artificial Intelligence, Automation System
 - 🌱 Currently learning Data and Machine Learning
