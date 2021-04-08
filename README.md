@@ -1,11 +1,10 @@
-# Horas everyone! Welcome to my GitHub Profile 
+# Horas everyone! Welcome... 
 ## I'm Jomen Pardede, just started my journey in data
 ## Just finished my learning path of [Data Science Bootcamp in Rakamin Academy](https://rakamin.com/):smiley:
 
-- 👀 Have interested in Data, Machine Learning, Artificial Intelligence, Automation System
-- 🌱 Currently learning Data and Machine Learning
+- 👀 Interested in Data, Machine Learning, Artificial Intelligence, Automation System
 - :gear: Looking to collaborate on Data Team, no matter it is an internship, part-time, contract, or full-time
-- 📫 How to reach me
+- 📫 Let's Talk
   - :iphone: +6282272055285
   - :email: jomenpardede@gmail.com
   - LinkedIn: www.linkedin.com/in/jomen-pardede
