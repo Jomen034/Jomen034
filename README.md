@@ -1,13 +1,14 @@
 # Horas everyone! Welcome... 
 ## I'm Jomen Pardede, just started my journey in data
-## Just finished my learning path of [Data Science Bootcamp in Rakamin Academy](https://rakamin.com/):smiley:
+### Currently as a full time Data Analyst at [Evermos](https://www.linkedin.com/company/evermos/mycompany/)
+### Scholarship Awardee for Joining A One Month Practical Program on Data Engineering Track Academi by [Blank Space](https://www.linkedin.com/company/blankspace-io/)
+### Graduate Data Science Student from [Data Science Bootcamp in Rakamin Academy](https://rakamin.com/):smiley:
 
-- 👀 Interested in Data, Machine Learning, Artificial Intelligence, Automation System
-- :gear: Looking to collaborate on Data Team, no matter it is an internship, part-time, contract, or full-time
-- 📫 Let's Talk
+- 👀 Interested in Data & Anlytics, Machine Learning, Artificial Intelligence, Automation System
+- 📫 Let's Connect
   - :iphone: +6282272055285
   - :email: jomenpardede@gmail.com
-  - LinkedIn: www.linkedin.com/in/jomen-pardede
+  - [LinkedIn](www.linkedin.com/in/jomen-pardede)
 
 <!---
 Jomen034/Jomen034 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
