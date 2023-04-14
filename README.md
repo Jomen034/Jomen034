@@ -5,7 +5,7 @@
   *[Here](https://drive.google.com/file/d/1kwTfVNi9lwUOrtPL0i9EwgoBc81flceY/view?usp=sharing) is my portfolio based on Blank Space Team' version during the program and the assignments*
 * **Graduated Data Science** Student from [Data Science Bootcamp in Rakamin Academy](https://rakamin.com/)
 * _**Interested in Data & Anlytics, Machine Learning, Artificial Intelligence, Automation System**_
-* **Currently work as a Data Analyst at [Evermos](https://evermos.com)**
+* **Currently work as a BI Engineer at [Evermos](https://evermos.com)**
 * _**Let's Connect**_
   - :iphone: +6282272055285
   - :email: jomenpardede@gmail.com
